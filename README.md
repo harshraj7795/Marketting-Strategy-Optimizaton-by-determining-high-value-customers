@@ -1,0 +1,5 @@
+# Marketting-Strategy-Optimizaton-by-determining-high-value-customers
+Data Quality Assesment and determination of potential customers using RFM Analysis
+Three datasets are provided by a medium size bikes & cycling accessories organisation, namely, Customer Demographics, Customer Address and Transactions. Customer Demographics dataset contains the information about basic demographics of the customer. Customer Address dataset contains the information regarding the address and location of the customer and the Transactions dataset contains the information regarding the past transactions done by these customers with the company.
+
+It is required to perform data quality assessment on the three datasets and rectify the issues. Also, it is required to perform the Exploratory Data Analysis on the data and determine the high value and potential customers for the organisation for optimizing the marketting strategy. This would help the marketting team of the organization to optimise resource allocation for targeted marketing by focusing on high value customers.
